@@ -57,6 +57,16 @@ Enter your thoughts or problems in the input box
 Click submit
 Receive a supportive and relevant response
 
+Running in Google Collab 
+<img width="1110" height="685" alt="image" src="https://github.com/user-attachments/assets/ed9c7c3d-ddd2-41ca-970b-ec4a03fdcee7" />
+
+Running on Gradio Live link : https://410056f933a54c12fa.gradio.live/
+<img width="567" height="30" alt="image" src="https://github.com/user-attachments/assets/f59f42c5-0499-483a-a874-30b21e423b0f" />
+
+<img width="1919" height="1069" alt="image" src="https://github.com/user-attachments/assets/e92bcb61-e477-4b7f-b5c3-7d85dd104c2b" />
+
+
+
 🎯 Objective
 Provide accessible emotional support
 Help users feel heard and understood
